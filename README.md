@@ -85,9 +85,7 @@ The application is deployed and can be accessed at [J.A.T.E Live](https://jate-s
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/800x600.png?text=Screenshot+1)
-
-![Screenshot 2](https://via.placeholder.com/800x600.png?text=Screenshot+2)
+<img width="1680" alt="Screenshot 2024-08-08 at 9 26 03 PM" src="https://github.com/user-attachments/assets/835b58dd-9e20-4a74-bdb3-1acafca30f30">
 
 ## Technologies Used
 
